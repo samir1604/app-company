@@ -1,0 +1,6 @@
+node_module/*
+package-lock.json
+src/*.ts
+src/index.html
+src/environments/*.ts
+src/**/*.spec.ts
